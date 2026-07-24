@@ -81,12 +81,8 @@ Finish Quiz
 
 ## 📂 Project Structure
 
-```
-## 📂 Project Structure
-
-```
+```text
 Quiz-App
-│
 ├── app
 │   ├── manifests
 │   │   └── AndroidManifest.xml
