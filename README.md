@@ -138,7 +138,7 @@ Quiz-App
 Clone the repository
 
 ```bash
-git clone git@github.com:YOUR_USERNAME/Quiz-App.git
+git clone git@github.com:Dipti-Choubey-101/Quiz-App.git
 ```
 
 Open the project in **Android Studio**
