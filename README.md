@@ -82,27 +82,57 @@ Finish Quiz
 ## 📂 Project Structure
 
 ```
+## 📂 Project Structure
+
+```
 Quiz-App
 │
 ├── app
 │   ├── manifests
-│   ├── java
-│   │     ├── model
-│   │     ├── ui
-│   │     ├── utils
-│   │     └── MainActivity.kt
-│   └── res
-│         ├── drawable
-│         ├── layout
-│         ├── values
-│         └── mipmap
+│   │   └── AndroidManifest.xml
+│   │
+│   ├── kotlin+java
+│   │   └── com.example.quizapp
+│   │       ├── model
+│   │       │   └── Question.kt
+│   │       │
+│   │       ├── ui
+│   │       │   ├── QuestionsActivity.kt
+│   │       │   └── ResultActivity.kt
+│   │       │
+│   │       ├── utils
+│   │       │   └── Constants.kt
+│   │       │
+│   │       └── MainActivity.kt
+│   │
+│   ├── res
+│   │   ├── drawable
+│   │   │   ├── Country Flag Images
+│   │   │   ├── Trophy Image
+│   │   │   ├── Backgrounds
+│   │   │   └── Option Border Drawables
+│   │   │
+│   │   ├── layout
+│   │   │   ├── activity_main.xml
+│   │   │   ├── activity_questions.xml
+│   │   │   └── activity_result.xml
+│   │   │
+│   │   ├── mipmap
+│   │   ├── values
+│   │   │   ├── colors.xml
+│   │   │   ├── strings.xml
+│   │   │   └── themes.xml
+│   │   │
+│   │   └── xml
+│   │
+│   └── build.gradle.kts
 │
 ├── screenshots
-│      ├── app-overview.png
-│      ├── question.png
-│      ├── correct.png
-│      ├── wrong.png
-│      └── result.png
+│   ├── welcome.png
+│   ├── question.png
+│   ├── correct.png
+│   ├── wrong.png
+│   └── result.png
 │
 └── README.md
 ```
