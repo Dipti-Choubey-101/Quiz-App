@@ -28,9 +28,11 @@
 
 <p align="center">
 
+## 📱 Application Screens
+
 | Welcome | Quiz Question | Correct Answer | Wrong Answer | Result |
 |:-------:|:-------------:|:--------------:|:------------:|:------:|
-| <img src="screenshots/welcome.png" width="180"> | <img src="screenshots/question.png" width="180"> | <img src="screenshots/correct.png" width="180"> | <img src="screenshots/wrong.png" width="180"> | <img src="screenshots/result.png" width="180"> |
+| <img src="screenshots/01_welcome.png" width="180"> | <img src="screenshots/02_question.png" width="180"> | <img src="screenshots/03_correct.png" width="180"> | <img src="screenshots/04_wrong.png" width="180"> | <img src="screenshots/05_result.png" width="180"> |
 
 </p>
 
