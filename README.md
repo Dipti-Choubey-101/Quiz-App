@@ -166,18 +166,6 @@ Run the application on an Android Emulator or Physical Device.
 
 ---
 
-## 📸 Screens Preview
-
-<p align="center">
-<img src="screenshots/welcome.png" width="180">
-<img src="screenshots/question.png" width="180">
-<img src="screenshots/correct.png" width="180">
-<img src="screenshots/wrong.png" width="180">
-<img src="screenshots/result.png" width="180">
-</p>
-
----
-
 ## 👨‍💻 Developer
 
 **Dipti Choubey**
