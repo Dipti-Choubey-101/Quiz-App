@@ -1,10 +1,6 @@
 # 📱 Quiz App
 
 <p align="center">
-  <img src="screenshots/app-overview.png" width="100%">
-</p>
-
-<p align="center">
   <b>A modern Android Quiz Application built using Kotlin and XML.</b><br>
   Test your knowledge with multiple-choice questions, instant answer validation, progress tracking, and a beautiful result screen.
 </p>
